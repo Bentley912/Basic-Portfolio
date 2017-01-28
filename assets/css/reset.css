@@ -46,3 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+ul li{
+  float:right;
+  margin: 10px;
+}
+
+#logo{
+  float:left;
+}
